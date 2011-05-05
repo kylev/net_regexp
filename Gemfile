@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-# Specify your gem's dependencies in netregexp.gemspec
+# Specify your gem's dependencies in net_regexp.gemspec
 gemspec
 
 group :development, :test do

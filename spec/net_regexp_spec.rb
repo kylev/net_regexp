@@ -1,4 +1,4 @@
-require 'netregexp'
+require 'net_regexp'
 
 describe NetRegexp do
   describe "#initialize" do
